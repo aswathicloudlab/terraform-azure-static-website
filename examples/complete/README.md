@@ -1,4 +1,4 @@
-# Static Website Hosting in Azure Storage - Terraform Module
+# Static Website Hosting in Azure Storage - Terraform Module Usage Example
 
 This is a Terraform module for provisioning a static website hosted on storage container on Azure. Storage container can be used to serve static content, such as HTML, CSS, JavaScript, and image files directly from a storage container named $web. This module is built in accordance with the Microsoft documentation available in this [link](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website).
 
